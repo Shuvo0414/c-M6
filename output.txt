@@ -1,5 +1,2 @@
-a
-b
-c
-d
-a b c d 
+Rakib Ahsan 24
+Total marks-> 170
